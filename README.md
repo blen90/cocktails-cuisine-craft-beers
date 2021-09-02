@@ -22,7 +22,7 @@ https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
 * [Contributing](#contributing)
 
-* [Technology](#Technology)
+* [Technology](#technology)
 
 * [Questions](#questions)
 
@@ -42,7 +42,7 @@ This project is governed by: MIT License
 * Karina Clausen
 * Yueshia Vue
 
-# Techology
+# Technology
 
 * HTML
 * CSS
