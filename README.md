@@ -1,28 +1,67 @@
 # Group-Project-One
 
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/)
 
+# Description
 
-A link to our website: https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
+This app allows the user to search for cocktail recipes to make at home by searching for a specific cocktail or spirit. It also allows the user to search for restaurants or breweries by Zipcode. 
+
+# Deployed App Link
+
+https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
 
 ![screenshot](./assets/images/results_page_screenshot.png)
 ![screenshot](./assets/images/landings_page_screenshot.png)
 
+# Table of Contents
+    
+* [Usage](#usage)
+
+* [License](#license)
+
+* [Contributing](#contributing)
+
+* [Technology](#Technology)
+
+* [Questions](#questions)
+
+# Usage
+
+In the landing page lets the user know what they can search for. The user can either search for a cocktail to make at home, restaurants or breweries by Zipcode. The user is redirected to the search page where they can search for a cocktail by typing a specific cocktail, a restaurant or a brewery by Zipcode. Each option uses an API to get the different results for the different options. 
+
+# License
+
+This project is governed by: MIT License
+
+# Contributing 
+
+* Blenda Orellana
+* Jacob Beckfeld
+* Brett Flemming
+* Karina Clausen
+* Yueshia Vue
+
+# Techology
+
+* HTML
+* CSS
+* JavaScript
+* Bootstrap
+* 3 APIs
+
+# Questions 
+
+If you have any questions about the repo or the app you can contact us directly? 
+
+* Blenda Orellana - Email: blen.or90@gmail.com  Github:https://github.com/blen90
+* Jacob Beckfeld - Github: https://github.com/JacobBeckfeld
+* Brett Flemming - Github: https://github.com/brettfleming
+* Karina Clausen - Github: https://github.com/Karina5151
+* Yueshia Vue - Github: https://github.com/YueshiaVue
 
 
 
-As a group we created a restaurant, brewery  and and cocktail recipe search!
 
-We split into a front-end and a back-end in the begining of our project to get both the styling and the functionality working.
-    By doing this we were able to cut the time it would take us to build the whole website.
-    We had one team form the UI and styling of both HTML pages and the other create the functionality through javascript.
-
-Our website starts at our landing page that describes what you are able to search for.
-    When you press restaurants cocktails or brewries link it will take you to the search page which will then allow you to search through three different APIs.
-
-On the results HTML page you are able to choose what you want to search; either cocktail recipies, resturants in a specific area by zip code or a brewery ny a specific zip code.
-    Each search option searches through a different API to find what the user is looking for.
-
-With this you will be able to either find a restaurant or a brewery near you, or if you'd rather, make a cocktail at home!
 
 
