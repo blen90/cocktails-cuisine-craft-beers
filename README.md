@@ -54,7 +54,7 @@ This project is governed by: MIT License
 
 If you have any questions about the repo or the app you can contact us directly? 
 
-* Blenda Orellana - Email: blen.or90@gmail.com  Github:https://github.com/blen90
+* Blenda Orellana - Email: blen.or90@gmail.com  Github: https://github.com/blen90
 * Jacob Beckfeld - Github: https://github.com/JacobBeckfeld
 * Brett Flemming - Github: https://github.com/brettfleming
 * Karina Clausen - Github: https://github.com/Karina5151
