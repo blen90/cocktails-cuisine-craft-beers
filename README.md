@@ -6,15 +6,17 @@
 
 This app allows the user to search for cocktail recipes to make at home by searching for a specific cocktail or spirit. It also allows the user to search for restaurants or breweries by Zipcode. 
 
-# Deployed App Link
+# Deployed App link
 
 https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
-
+## Screenshotw of the App
 ![screenshot](./assets/images/results_page_screenshot.png)
 ![screenshot](./assets/images/landings_page_screenshot.png)
 
 # Table of Contents
+
+* [Installation](#installation)
     
 * [Usage](#usage)
 
@@ -26,6 +28,10 @@ https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
 * [Questions](#questions)
 
+# Installation
+
+Visit the deployed app and search for your favorite cocktails, restaurants or breweries by Zipcode in the following link: https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
+
 # Usage
 
 In the landing page lets the user know what they can search for. The user can either search for a cocktail to make at home, restaurants or breweries by Zipcode. The user is redirected to the search page where they can search for a cocktail by typing a specific cocktail, a restaurant or a brewery by Zipcode. Each option uses an API to get the different results for the different options. 
@@ -34,7 +40,7 @@ In the landing page lets the user know what they can search for. The user can ei
 
 This project is governed by: MIT License
 
-# Contributing 
+# Contributors
 
 * Blenda Orellana
 * Jacob Beckfeld
@@ -59,9 +65,3 @@ If you have any questions about the repo or the app you can contact us directly?
 * Brett Fleming - Github: https://github.com/brettfleming
 * Karina Clausen - Github: https://github.com/Karina5151
 * Yueshia Vue - Github: https://github.com/YueshiaVue
-
-
-
-
-
-
