@@ -6,7 +6,7 @@
 
 This app allows the user to search for cocktail recipes to make at home by searching for a specific cocktail or spirit. It also allows the user to search for restaurants or breweries by Zipcode. 
 
-# Deployed App link
+## Deployed App link
 
 https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
