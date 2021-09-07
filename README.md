@@ -1,6 +1,6 @@
 # Group-Project-One
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/)
+[![GitHub license](https://img.shields.io/badge/License-MIT-blue.svg)](https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/)
 
 # Description
 
@@ -10,7 +10,7 @@ This is a web app that utilizes HTML, CSS and JavaScript. It allows the user to 
 
 https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
-## Screenshotw of the App
+## Screenshots of the App
 ![screenshot](./assets/images/results_page_screenshot.png)
 ![screenshot](./assets/images/landings_page_screenshot.png)
 
@@ -22,7 +22,7 @@ https://jacobbeckfeld.github.io/Cocktails-Cuisine-Craft-Beers/
 
 * [License](#license)
 
-* [Contributing](#contributing)
+* [Contributors](#contributors)
 
 * [Technology](#technology)
 
