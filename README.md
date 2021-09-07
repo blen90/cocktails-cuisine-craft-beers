@@ -4,7 +4,7 @@
 
 # Description
 
-This app allows the user to search for cocktail recipes to make at home by searching for a specific cocktail or spirit. It also allows the user to search for restaurants or breweries by Zipcode. 
+This is a web app that utilizes HTML, CSS and JavaScript. It allows the user to search for cocktail recipes to make at home by searching for a specific cocktail or spirit. It also allows the user to search for restaurants or breweries by Zipcode. 
 
 ## Deployed App link
 
